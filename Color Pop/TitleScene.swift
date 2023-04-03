@@ -2,7 +2,7 @@
 //  TitleScene.swift
 //  Color Pop
 //
-//  Created by Chiristofer Patrick Paes on 5/9/19.
+//  Created by Christofer Patrick Paes on 5/9/19.
 //  Copyright © 2019 Chiristofer Patrick Paes RSC. All rights reserved.
 //
 
