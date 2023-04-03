@@ -2,8 +2,8 @@
 //  TitleScene.swift
 //  Color Pop
 //
-//  Created by Valentina Carfagno on 5/9/19.
-//  Copyright © 2019 RSC. All rights reserved.
+//  Created by Chiristofer Patrick Paes on 5/9/19.
+//  Copyright © 2019 Chiristofer Patrick Paes RSC. All rights reserved.
 //
 
 import Foundation
