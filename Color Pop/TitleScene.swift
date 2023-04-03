@@ -3,7 +3,7 @@
 //  Color Pop
 //
 //  Created by Christofer Patrick Paes on 5/9/19.
-//  Copyright © 2019 Chiristofer Patrick Paes RSC. All rights reserved.
+//  Copyright © 2019 Christofer Patrick Paes RSC. All rights reserved.
 //
 
 import Foundation
