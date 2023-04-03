@@ -2,8 +2,8 @@
 //  GameScene.swift
 //  Color Pop
 //
-//  Created by Valentina Carfagno on 5/8/19.
-//  Copyright © 2019 RSC. All rights reserved.
+//  Created by Christofer Patrick Paes on 5/8/19.
+//  Copyright © 2019 Christofer Patrick Paes RSC. All rights reserved.
 //
 
 import SpriteKit
